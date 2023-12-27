@@ -5,4 +5,5 @@ Implemented Models
   2. Neural Network    - Accuracy: 75 %
 
 Reference:
-[Real-Time Cyber-Physical False Data Attack Detection in Smart Grids Using Neural Networks] (https://ieeexplore.ieee.org/document/8560712)
+<br>
+[Real-Time Cyber-Physical False Data Attack Detection in Smart Grids Using Neural Networks](https://ieeexplore.ieee.org/document/8560712)
